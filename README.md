@@ -10,7 +10,7 @@ DOI: https://doi.org/10.5281/zenodo.19043099
 
 **Автор:** Гавриленко Александр Тимофеевич  
 **ORCID:** 0009-0009-4280-8052  
-**Лицензия:** MIT  
+**Лицензия:** Лицензия Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
 **Репозитории:**  
 - https://github.com/Knstet01/architectural-balance-framework  
 - https://github.com/Knstet01/mathematics  
